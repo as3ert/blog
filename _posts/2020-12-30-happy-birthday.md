@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Happy birthday
+title: Daily Post
 categories:
   - Writing
 date: 2020-12-30 00:00:00
 ---
 
-# Happy birthday to myself\!
+# Happy birthday\!
 
 ```
-Wish you a better year！
+Wish a better year！
 
 GPA++
 ```
 
-![](/uploads/eren-jaeger.png){: width="725" height="406"}
+![](/uploads/eren-jaeger.png){: width="735" height="411"}
