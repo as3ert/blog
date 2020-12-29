@@ -1,6 +1,6 @@
-- name: Facebook
-  link: 'https://www.facebook.com/changhe_'
-  social_icon: Facebook
+- name: Twitter
+  link: 'https://twitter.com/changhe_'
+  social_icon: Twitter
   new_window: true
 - name: Github
   link: 'https://github.com/Zhao-FlorenCE'
