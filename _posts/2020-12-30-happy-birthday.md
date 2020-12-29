@@ -14,4 +14,4 @@ Wish you a better year！
 GPA++
 ```
 
-![](/uploads/eren-jaeger.png){: width="800" height="400"}
+![](/uploads/eren-jaeger.png){: width="700" height="350"}
