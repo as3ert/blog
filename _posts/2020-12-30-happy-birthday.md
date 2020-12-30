@@ -15,4 +15,4 @@ Wish a better year！
 GPA++
 ```
 
-<img src="/uploads/eren-jaeger.png" calss="fit image">
+<img src="/uploads/eren-jaeger.png" class="fit image">
