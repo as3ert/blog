@@ -10,4 +10,4 @@ date: 2020-12-29 18:21:00
 
 This is just my first blog.
 
-![](/images/fulls/03.jpg){: width="800" height="450"}
+<img src="/images/fulls/03.jpg" class="fit image">
