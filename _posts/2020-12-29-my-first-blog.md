@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first blog
+title: My first BLOG
 categories:
   - update
 date: 2020-12-29 18:21:00
@@ -8,4 +8,4 @@ date: 2020-12-29 18:21:00
 
 <img src="/images/fulls/03.jpg" class="fit image"> Hello everyone!
 
-This is just my first blog.
+This is just my first BLOG.
