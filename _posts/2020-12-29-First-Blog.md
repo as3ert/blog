@@ -12,4 +12,4 @@ comments: false
 
 ## This is my first Blog
 Waiting for more about it~
-![](url)
+<img src="url" class="fit image">
