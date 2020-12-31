@@ -1,0 +1,9 @@
+$ git add .
+$ git commit -m "XXX"
+$ git pull --rebase origin main
+$ git push -u origin main
+
+<img src="url" class="fit image">
+![](url)
+
+python C:\Users\FlorenCE\Desktop\AutoPhotoSize.py
