@@ -1,4 +1,4 @@
-locale: "China Shenzhen"
+locale: "Shenzhen, China"
 title: Arthur's Blog # Title of your site
 url: "http://as3ert.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
