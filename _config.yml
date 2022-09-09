@@ -1,23 +1,23 @@
 locale: "China Shenzhen"
-title: FlorenCE's Blog # Title of your site
-url: "http://Zhao-FlorenCE.github.io" # the base hostname & protocol for your site
+title: Arthur's Blog # Title of your site
+url: "http://as3ert.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: "_dEZ9tBmT-GSAOfCQWh9Rw"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-  The first attempt on blog
+  Blog
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Zhao FlorenCE
-  email: 2571472753@qq.com
+  name: Arthur Zhao
+  email: as3ertpro@gmail.com
   twitter: chenghe_ # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Zhao-FlorenCE
+  name: as3ert
   links:
-    - https://github.com/Zhao-FlorenCE
+    - https://github.com/as3ert
 
 permalink: pretty
 
